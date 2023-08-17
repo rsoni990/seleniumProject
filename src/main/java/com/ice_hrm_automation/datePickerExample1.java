@@ -1,8 +1,5 @@
 package com.ice_hrm_automation;
 
-import java.time.LocalDateTime;
-import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -11,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class datePickerExample1 {
 private static Object WebElemenet;
 
+   //added more details
 public static void main(String ar[])throws Exception
 {
 	System.setProperty("webdriver.chrome.driver","chromedriver.exe");
